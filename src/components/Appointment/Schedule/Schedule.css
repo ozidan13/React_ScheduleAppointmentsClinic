@@ -1,0 +1,67 @@
+
+
+
+.schedule_appointment .schedule_days {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+.schedule_appointment .schedule_days::before {
+    content: "<";
+    display: block;
+    position: absolute;
+    top: 19px;
+    left: -4%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.schedule_appointment .schedule_days::after {
+    content: ">";
+    display: block;
+    position: absolute;
+    top: 19px;
+    right: -4%;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.schedule_appointment .schedule_days .day{
+    border: 1px solid #000000;
+    padding: 10px;
+    border-radius: 7px;
+    width: 46px;
+    height: 65px;
+
+}
+
+.schedule_appointment .schedule_days .day h3 {
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.schedule_appointment .schedule_days .day p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+} 
+
+.schedule_days {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.schedule_days .day {
+    cursor: pointer;
+}
+.schedule_days .day:nth-child(2){
+    background-color: #4894FE;
+    color: white;
+}
+
+.schedule_days .day:hover {
+    background-color: #4894FE;
+    color: white;
+}

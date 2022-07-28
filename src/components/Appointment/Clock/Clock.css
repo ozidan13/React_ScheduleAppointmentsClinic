@@ -1,0 +1,29 @@
+
+.choose_time .times {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.times .s_time {
+    width: 80px;
+    height: 36px;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #636262;
+    cursor: pointer;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.161);
+    border-radius: 10px;
+    margin: 8px 11px 0 0;
+}
+.times .s_time:hover {
+    background-color: #4894FE;
+    color: white;
+}
+.times .s_time h3{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    line-height: 18px;
+}

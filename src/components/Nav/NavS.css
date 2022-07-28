@@ -1,0 +1,30 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #4894FE !important;
+    padding: 15px;
+    color: white;
+}
+
+.nav h3 {
+    cursor: pointer;
+}
+
+.nav .nav-links {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.nav .nav-links li .li-link {
+    color: white;
+    text-decoration: none;
+    transition: all .3s ease;
+}
+
+.nav .nav-links li .li-link:hover {
+    color: #1b0a77;
+}

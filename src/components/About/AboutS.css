@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+
+* {
+    font-family: "Cairo";
+    
+}
+
+.about {
+    position: relative;
+    top: 100px;
+    color: #fff;
+    margin: auto 10px;
+    text-align: center;
+}
+
+.about {
+    color: #fff;
+    cursor: pointer;
+}
+
+.about h1 {
+    color: #4894FE;
+}
+.about h1,h2,h3,p {
+    margin-bottom: 10px;
+}
+
