@@ -25,14 +25,16 @@ https://user-images.githubusercontent.com/80807929/181488908-e1831f88-bc8d-44d4-
 * The Project is Divided To 3 Main Routes
 * Routes are : (Doctors - Take Appointment - About )
 1- The First is A About Page that Contain A brief about this Project
-![1](https://user-images.githubusercontent.com/80807929/181097015-b99ff9bd-9484-4725-aa5f-7c80638023f8.PNG)
-2- The Second is A Select Player Page that Contain Two Screens to get players data 
-First Player :
-![2](https://user-images.githubusercontent.com/80807929/181097383-cbaedcb3-3fe0-4cef-bca2-da29c9977f84.PNG)
-Second Player  :
-![3](https://user-images.githubusercontent.com/80807929/181097395-0ad1a418-bed7-44f5-8b36-f32e9132413f.PNG)
-3- The Third is a Quick Start Page, if you user want to play a quick game 
-![4](https://user-images.githubusercontent.com/80807929/181097399-8e603022-5041-4ab6-9f7f-4a14bc919b14.PNG)
+![about](https://user-images.githubusercontent.com/80807929/181489749-345f46b1-a6f7-4752-ad26-ff110d49ebd3.PNG)
+
+2- The Second is Doctors Page that Contains Doctors available
+![3](https://user-images.githubusercontent.com/80807929/181490165-9889780e-03fd-4828-9a38-090b3bb462f5.PNG)
+
+3- The Third is a Take Appointment, if the user want to create a schedule
+![2](https://user-images.githubusercontent.com/80807929/181489747-4de6e04d-7e76-4cd6-b318-f463c5f4ecd1.PNG)
+
+Finally the successful operation for taking an appointments :
+
 
 
 
